@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Virasat – Namma Guide</string>
+    <string name="app_name_kn">ವಿರಾಸತ್ – ನಮ್ಮ ಗೈಡ್</string>
+
+    <!-- Splash -->
+    <string name="tagline">Karnataka Heritage Explorer</string>
+    <string name="tagline_kn">ಕರ್ನಾಟಕ ಪಾರಂಪರಿಕ ಅನ್ವೇಷಕ</string>
+
+    <!-- Discovery -->
+    <string name="discovery_title">Discover Heritage</string>
+    <string name="discovery_title_kn">ಪಾರಂಪರಿಕ ಸ್ಥಳಗಳನ್ನು ಅನ್ವೇಷಿಸಿ</string>
+    <string name="search_hint">Search temples, inscriptions…</string>
+    <string name="search_hint_kn">ದೇವಾಲಯಗಳು, ಶಾಸನಗಳನ್ನು ಹುಡುಕಿ…</string>
+    <string name="sites_nearby">Sites Nearby</string>
+    <string name="km_away">km away</string>
+
+    <!-- Site Detail -->
+    <string name="history">History</string>
+    <string name="history_kn">ಇತಿಹಾಸ</string>
+    <string name="architecture">Architectural Significance</string>
+    <string name="architecture_kn">ವಾಸ್ತುಶಿಲ್ಪ ಮಹತ್ವ</string>
+    <string name="local_legend">Local Legend</string>
+    <string name="local_legend_kn">ಸ್ಥಳೀಯ ದಂತಕಥೆ</string>
+    <string name="hidden_fact">Hidden Fact</string>
+    <string name="hidden_fact_kn">ಅಡಗಿದ ಸಂಗತಿ</string>
+    <string name="audio_guide">Audio Guide</string>
+    <string name="scan_qr_unlock">Scan QR to Unlock</string>
+    <string name="check_in">Check In</string>
+    <string name="checked_in">Checked In ✓</string>
+    <string name="lang_toggle_en">EN</string>
+    <string name="lang_toggle_kn">ಕ</string>
+
+    <!-- QR Scanner -->
+    <string name="qr_scanner_title">Scan QR Code</string>
+    <string name="qr_instruction">Point camera at a site\'s QR code</string>
+    <string name="demo_label">── Demo: Tap to simulate scan ──</string>
+    <string name="camera_permission_required">Camera permission required</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="site_not_found">No heritage site found for this QR code.</string>
+
+    <!-- Passport -->
+    <string name="passport_title">Travel Passport</string>
+    <string name="passport_title_kn">ಪ್ರವಾಸ ಪಾಸ್‌ಪೋರ್ಟ್</string>
+    <string name="sites_visited">Sites Visited</string>
+    <string name="no_sites_yet">No sites visited yet!</string>
+    <string name="no_sites_hint">Explore heritage sites and check in to stamp your passport.</string>
+
+    <!-- Badges -->
+    <string name="badge_explorer">Explorer</string>
+    <string name="badge_seeker">Heritage Seeker</string>
+    <string name="badge_wanderer">Site Wanderer</string>
+    <string name="badge_scholar">Heritage Scholar</string>
+    <string name="badge_master">Karnataka Heritage Master 🏆</string>
+
+    <!-- Categories -->
+    <string name="cat_temple">Temple</string>
+    <string name="cat_inscription">Inscription</string>
+    <string name="cat_fort">Fort</string>
+    <string name="cat_step_well">Step Well</string>
+    <string name="cat_cave">Cave</string>
+    <string name="cat_monument">Monument</string>
+
+    <!-- Permissions -->
+    <string name="permission_camera_rationale">Camera access is needed to scan QR codes at heritage sites and unlock hidden facts.</string>
+    <string name="permission_location_rationale">Location access helps show heritage sites near you within a chosen radius.</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Using a standard platform theme that doesn't require extra libraries -->
+    <style name="Theme.VirastatNammaGuide" parent="android:Theme.DeviceDefault.NoActionBar" />
+</resources>

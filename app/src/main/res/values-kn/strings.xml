@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Kannada language strings (values-kn/strings.xml) -->
+<resources>
+    <string name="app_name">ವಿರಾಸತ್ – ನಮ್ಮ ಗೈಡ್</string>
+    <string name="tagline">ಕರ್ನಾಟಕ ಪಾರಂಪರಿಕ ಅನ್ವೇಷಕ</string>
+    <string name="discovery_title">ಪಾರಂಪರಿಕ ಸ್ಥಳಗಳನ್ನು ಅನ್ವೇಷಿಸಿ</string>
+    <string name="search_hint">ದೇವಾಲಯಗಳು, ಶಾಸನಗಳನ್ನು ಹುಡುಕಿ…</string>
+    <string name="sites_nearby">ಹತ್ತಿರದ ತಾಣಗಳು</string>
+    <string name="km_away">ಕಿಮೀ ದೂರ</string>
+    <string name="history">ಇತಿಹಾಸ</string>
+    <string name="architecture">ವಾಸ್ತುಶಿಲ್ಪ ಮಹತ್ವ</string>
+    <string name="local_legend">ಸ್ಥಳೀಯ ದಂತಕಥೆ</string>
+    <string name="hidden_fact">ಅಡಗಿದ ಸಂಗತಿ</string>
+    <string name="audio_guide">ಆಡಿಯೊ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="scan_qr_unlock">QR ಸ್ಕ್ಯಾನ್ ಮಾಡಿ ಅನ್‌ಲಾಕ್ ಮಾಡಿ</string>
+    <string name="check_in">ಚೆಕ್ ಇನ್</string>
+    <string name="checked_in">ಚೆಕ್ ಇನ್ ✓</string>
+    <string name="qr_scanner_title">QR ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
+    <string name="qr_instruction">ತಾಣದ QR ಕೋಡ್‌ಗೆ ಕ್ಯಾಮೆರಾ ತೋರಿಸಿ</string>
+    <string name="passport_title">ಪ್ರವಾಸ ಪಾಸ್‌ಪೋರ್ಟ್</string>
+    <string name="sites_visited">ಭೇಟಿ ನೀಡಿದ ತಾಣಗಳು</string>
+    <string name="no_sites_yet">ಇನ್ನೂ ಯಾವ ತಾಣವನ್ನೂ ಭೇಟಿ ಮಾಡಿಲ್ಲ!</string>
+    <string name="no_sites_hint">ಪಾರಂಪರಿಕ ತಾಣಗಳನ್ನು ಅನ್ವೇಷಿಸಿ ಮತ್ತು ಚೆಕ್ ಇನ್ ಮಾಡಿ.</string>
+    <string name="cat_temple">ದೇವಾಲಯ</string>
+    <string name="cat_inscription">ಶಾಸನ</string>
+    <string name="cat_fort">ಕೋಟೆ</string>
+    <string name="cat_step_well">ಮೆಟ್ಟಿಲು ಬಾವಿ</string>
+    <string name="cat_cave">ಗುಹೆ</string>
+    <string name="cat_monument">ಸ್ಮಾರಕ</string>
+</resources>
